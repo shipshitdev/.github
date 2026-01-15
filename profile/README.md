@@ -41,19 +41,11 @@ We serve developers who **can code whatever they want** but need guidance on wha
 | [**KaibanBoard**](https://github.com/shipshitdev/kaibanmd) | VS Code extension - AI-powered Kanban board for markdown tasks | 🟢 Active |
 | [**MeterBar**](https://github.com/shipshitdev/meterbar.app) | macOS menu bar app for tracking AI usage limits (Claude, OpenAI, Cursor) | 🟢 Active |
 
-### Developer Tools (Coming Soon)
+### Open Source Projects
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**DeckFlow**](https://github.com/shipshitdev/deckflowcom) | Pitch deck platform for multiple audiences | 🚧 In Development |
-| [**SkillHub**](https://github.com/shipshitdev/skillhubcom) | Skills hub and marketplace | 🚧 In Development |
-| [**SolaWatch**](https://github.com/shipshitdev/solana-portfolio-tracker) | Solana portfolio tracker | 🚧 In Development |
-| [**TaskFlow**](https://github.com/shipshitdev/taskflowcom) | Todoist clone - Task management | 🚧 In Development |
-
-### Resources & Libraries
-
-| Project | Description | Status |
-|---------|-------------|--------|
+| [**Genfeed.ai**](https://github.com/genfeedai) | AI-first content creation platform for social media creators | 🟢 Active |
 | [**Skills Library**](https://github.com/shipshitdev/library) | 100+ AI agent skills for Claude, Codex, and Cursor | 🟢 Active |
 | [**UI Components**](https://github.com/shipshitdev/ui) | React component library | 🟢 Active |
 | [**Shopify Studio**](https://github.com/shipshitdev/shopify-studio) | Shopify extensions and themes | 🟢 Active |
