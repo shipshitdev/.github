@@ -39,17 +39,16 @@ We serve developers who **can code whatever they want** but need guidance on wha
 | Project | Description | Status |
 |---------|-------------|--------|
 | [**KaibanBoard**](https://github.com/shipshitdev/kaibanmd) | VS Code extension - AI-powered Kanban board for markdown tasks | 🟢 Active |
-| [**PredictHunter**](https://github.com/shipshitdev/predicthuntercom) | Polymarket Solana trading bot - Telegram bot & CLI | 🟢 Active |
-| [**QuotaGuard**](https://github.com/shipshitdev/quotaguardapp) | macOS widget for tracking AI usage limits (Claude, OpenAI, Cursor) | 🟢 Active |
+| [**MeterBar**](https://github.com/shipshitdev/meterbar.app) | macOS menu bar app for tracking AI usage limits (Claude, OpenAI, Cursor) | 🟢 Active |
 
-### Developer Tools
+### Developer Tools (Coming Soon)
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**DeckFlow**](https://github.com/shipshitdev/deckflowcom) | Pitch deck platform for multiple audiences | 🟢 Active |
-| [**SkillHub**](https://github.com/shipshitdev/skillhubcom) | Skills hub and marketplace | 🟢 Active |
-| [**SolaWatch**](https://github.com/shipshitdev/solana-portfolio-tracker) | Solana portfolio tracker | 🟢 Active |
-| [**TaskFlow**](https://github.com/shipshitdev/taskflowcom) | Todoist clone - Task management | 🟢 Active |
+| [**DeckFlow**](https://github.com/shipshitdev/deckflowcom) | Pitch deck platform for multiple audiences | 🚧 In Development |
+| [**SkillHub**](https://github.com/shipshitdev/skillhubcom) | Skills hub and marketplace | 🚧 In Development |
+| [**SolaWatch**](https://github.com/shipshitdev/solana-portfolio-tracker) | Solana portfolio tracker | 🚧 In Development |
+| [**TaskFlow**](https://github.com/shipshitdev/taskflowcom) | Todoist clone - Task management | 🚧 In Development |
 
 ### Resources & Libraries
 
@@ -66,10 +65,9 @@ We serve developers who **can code whatever they want** but need guidance on wha
 | Site | URL |
 |------|-----|
 | **Main Site** | [shipshit.dev](https://shipshit.dev) |
-| **QuotaGuard** | [quotaguard.shipshit.dev](https://quotaguard.shipshit.dev) |
+| **MeterBar** | [meterbar.app](https://meterbar.app) |
 | **KaibanBoard** | [kaibanboard.com](https://kaibanboard.com) |
-| **Mobile Apps** | [apps.shipshit.dev](https://apps.shipshit.dev) |
-| **Shopify Themes** | [shopify.shipshit.dev](https://shopify.shipshit.dev) |
+| **Shopify Boutique** | [shopify.shipshit.dev](https://shopify.shipshit.dev) |
 
 </div>
 
@@ -84,16 +82,14 @@ We serve developers who **can code whatever they want** but need guidance on wha
 ### For Learning
 
 - **[The Ship Sh!t Show](https://youtube.com/@shipshitdev)** - Live coding streams and tutorials
-- **[Getting Started Guide](https://github.com/shipshitdev/shipshitdev/blob/main/.agent/SYSTEM/GETTING_STARTED.md)** - Onboarding for new developers
-- **[Architecture Docs](https://github.com/shipshitdev/shipshitdev/blob/main/.agent/SYSTEM/ARCHITECTURE.md)** - Workspace structure and patterns
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Next.js 14+, React 19, TypeScript, Tailwind CSS  
-**Backend:** NestJS 11+, MongoDB, Redis  
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+**Backend:** NestJS, MongoDB, Redis  
 **Mobile:** Expo, React Native  
 **Desktop:** Swift/SwiftUI, Electron  
-**Package Manager:** Bun (primary)
+**Package Manager:** Bun
 
 ## 🎥 Content & Community
 
